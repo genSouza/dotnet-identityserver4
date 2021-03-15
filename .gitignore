@@ -440,3 +440,7 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/SecureMIcroService/IdentityServer/bin
+/SecureMIcroService/IdentityServer/bin
+/SecureMIcroService/IdentityServer/obj
+/SecureMIcroService/IdentityServer/tempkey.jwk
